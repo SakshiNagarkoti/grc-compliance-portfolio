@@ -1,1 +1,50 @@
+# Information Security Management System (ISMS)
 
+## What is an ISMS?
+
+An Information Security Management System (ISMS) is a structured framework that helps an organization protect the confidentiality, integrity, and availability of its information.
+
+SecureCloud Technologies has implemented an ISMS based on ISO/IEC 27001:2022 to identify risks, implement controls, and continually improve its information security posture.
+
+---
+
+## ISMS Objectives
+
+- Protect customer information
+- Reduce information security risks
+- Ensure business continuity
+- Meet legal and regulatory requirements
+- Achieve ISO/IEC 27001 certification
+
+---
+
+## ISMS Scope
+
+The ISMS covers:
+
+- AWS Cloud Infrastructure
+- Microsoft 365
+- Employee Endpoints
+- GitHub
+- Jira
+- Customer Database
+- HR Systems
+
+---
+
+## Key Components
+
+1. Asset Management
+2. Risk Assessment
+3. Information Security Policies
+4. Access Control
+5. Incident Management
+6. Internal Audit
+7. Business Continuity
+8. Continual Improvement
+
+---
+
+Version: 1.0
+
+Status: Draft
