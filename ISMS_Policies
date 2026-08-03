@@ -26,7 +26,7 @@ The ISMS covers:
 - Microsoft 365
 - Employee Endpoints
 - GitHub
-- Jira
+- Jira 
 - Customer Database
 - HR Systems
 
@@ -48,3 +48,53 @@ The ISMS covers:
 Version: 1.0
 
 Status: Draft
+
+---
+
+# Access Control Policy
+
+## Purpose
+
+The purpose of this policy is to ensure that access to company information and systems is granted only to authorized users based on business requirements.
+
+## Scope
+
+This policy applies to:
+
+- Employees
+- Contractors
+- Vendors
+- Third-party users
+
+## Policy Requirements
+
+- Every user must have a unique account.
+- Multi-Factor Authentication (MFA) must be enabled for critical systems.
+- Access shall follow the Principle of Least Privilege.
+- Shared accounts are prohibited unless formally approved.
+- User access shall be reviewed every quarter.
+- Access must be removed immediately when an employee leaves the organization.
+
+## Responsibilities
+
+### IT Team
+
+- Create user accounts
+- Remove inactive accounts
+- Perform quarterly access reviews
+
+### Managers
+
+- Approve access requests
+- Review user permissions
+
+### Employees
+
+- Protect passwords
+- Never share credentials
+
+---
+
+Version: 1.0
+
+Status: Approved
